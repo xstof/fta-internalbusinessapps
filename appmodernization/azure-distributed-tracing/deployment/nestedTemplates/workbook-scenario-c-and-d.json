@@ -3,7 +3,7 @@
   "parameters": {
     "workbookDisplayName": {
       "type": "string",
-      "defaultValue": "CrossComponentCorrWorkbook",
+      "defaultValue": "Scenario-C-and-D",
       "metadata": {
         "description": "The friendly name for the workbook that is used in the Gallery or Saved List.  This name must be unique within a resource group."
       }
@@ -17,14 +17,13 @@
     },
     "workbookSourceId": {
       "type": "string",
-      "defaultValue": "/subscriptions/09a55fcd-23ab-4b16-98b7-c17f85e641d5/resourceGroups/xstof/providers/microsoft.operationalinsights/workspaces/begim-logic-loganalytics",
       "metadata": {
         "description": "The id of resource instance to which the workbook will be associated"
       }
     },
     "workbookId": {
       "type": "string",
-      "defaultValue": "de5de96f-c8e2-423d-b345-f6f2830b22c8",
+      "defaultValue": "f0fda2b9-dda2-4328-9b8e-166e3457c45b",
       "metadata": {
         "description": "The unique guid for this workbook instance"
       }
